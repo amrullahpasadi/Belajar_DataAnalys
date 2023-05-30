@@ -1,2 +1,2 @@
-# Belajar_DataAnalys
+# Belajar_DataAnalyst
 tahap pembelajaran data analyst
