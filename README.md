@@ -1,2 +1,2 @@
 # Belajar_DataAnalyst
-tahap pembelajaran data analyst
+tahap pembelajaran data science
